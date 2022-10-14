@@ -1,0 +1,5 @@
+name: Pegasus
+version: '${project.version}'
+main: dev.selixe.Pegasus
+api-version: 1.19
+website: Selixe
